@@ -1,0 +1,9 @@
+{
+	"ignore extension": false,
+
+	"compress args": [ ],
+
+	"hash type": "sha256",
+
+	"compare hash type": "sha256"
+}
